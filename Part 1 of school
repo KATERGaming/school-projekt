@@ -1,1 +1,2 @@
-print("Part 1")
+local Victim = game.Players.gandalff9
+Victim:kick("Whitelist")
