@@ -1,4 +1,5 @@
 print("Whitelist Loaded!")
 
-local Victim = game.Players.ryryphobic
+local Victim = game.Players.xxMr_Unknownxxxx
 Victim:kick("Gay") 
+
