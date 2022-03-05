@@ -1,4 +1,1 @@
 print("part 3 loadet")
-
-local Victim = game.Players.slaschkiller
-Victim:kick("Gay")
