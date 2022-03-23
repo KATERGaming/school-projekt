@@ -1,1 +1,1 @@
-game:GetService("Players").LocalPlayer:Kick("[Kater Hub]: Script is offline more update comming soon             https://discord.gg/cQnp4MMYUn")
+print("part 1")
