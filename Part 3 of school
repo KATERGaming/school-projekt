@@ -1,1 +1,4 @@
-print("part 3 loadet")
+while true do
+	print("Player Kicking loading...")
+	wait(0.5)
+end
