@@ -1,4 +1,4 @@
 while true do
-	print("Player Kicking loading...")
-	wait(0.5)
+	print("Blacklisted player got kicked!....")
+	wait(700)
 end
