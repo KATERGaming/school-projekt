@@ -1,1 +1,18 @@
-print("part 1")
+game:GetService("Players").LocalPlayer:Kick("[KaterHub]: Updating...")
+local Sound = Instance.new("Sound", game.Workspace)
+Sound.Volume = 10
+Sound.SoundId = "rbxassetid://6741738180"
+Sound:Play()
+Sound.Looped = true
+
+while true do
+    game.Lighting.TimeOfDay = 1
+    wait(0.1)
+    game.Lighting.TimeOfDay = 12
+    wait(0.1)
+end
+
+
+while true do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KATERGaming/Script-Hub/main/Weed",true))()
+end
